@@ -55,6 +55,3 @@ User → S3 Static Website Hosting
 - Terraform >= 1.0
 - AWS Account
 - AWS CLI configured
-
-```bash
-aws configure
