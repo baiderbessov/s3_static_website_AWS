@@ -37,6 +37,7 @@ User → S3 Static Website Hosting
 ---
 
 ## 📁 Project Structure
+```
 .
 ├── main.tf          # S3 bucket + objects + website config
 ├── provider.tf      # AWS provider configuration
@@ -46,7 +47,7 @@ User → S3 Static Website Hosting
 ├── error.html       # Error page
 ├── profile.png      # Static asset
 └── .gitignore
-
+```
 ---
 
 ## ⚙️ Requirements
